@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Created by Wahid Ari on 8/30/2016.-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="fill_vertical"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="65dp"
+                    
+                    android:onClick="agungg"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/img5"
+                        android:layout_width="75dp"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_marginLeft="4dp"
+                        android:src="@drawable/agung" />
+
+                    <TextView
+                        android:id="@+id/txt5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="6dp"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginStart="18dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_toRightOf="@+id/img5"
+                        android:text="Pendakian Gunung Agung"
+                        android:textAlignment="center"
+                        android:textColor="?android:attr/textColorTertiary"
+                        android:textSize="16sp"
+                        android:textStyle="normal|bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="false"
+                        android:layout_below="@id/txt5"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginStart="18dp"
+                        android:layout_marginTop="6dp"
+                        android:layout_toRightOf="@+id/img5"
+                        android:text="Bali"
+                        android:textAlignment="center"
+                        android:textColor="#757575"
+                        android:textSize="14sp" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_below="@id/txt5"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_toRightOf="@+id/img5"
+                        android:background="#eeeeee" />
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="65dp"
+                    
+                    android:onClick="jayawijayaa"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/img6"
+                        android:layout_width="75dp"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_marginLeft="4dp"
+                        android:src="@drawable/jayawijaya" />
+
+                    <TextView
+                        android:id="@+id/txt6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="6dp"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginStart="18dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_toRightOf="@+id/img6"
+                        android:text="Pendakian Gunung Jaya Wijaya"
+                        android:textAlignment="center"
+                        android:textColor="?android:attr/textColorTertiary"
+                        android:textSize="16sp"
+                        android:textStyle="normal|bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="false"
+                        android:layout_below="@id/txt6"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginStart="18dp"
+                        android:layout_marginTop="6dp"
+                        android:layout_toRightOf="@+id/img6"
+                        android:text="Papua"
+                        android:textAlignment="center"
+                        android:textColor="#757575"
+                        android:textSize="14sp" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_below="@id/txt6"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_toRightOf="@+id/img6"
+                        android:background="#eeeeee" />
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="65dp"
+                    
+                    android:onClick="kerincii"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/img7"
+                        android:layout_width="75dp"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_marginLeft="4dp"
+                        android:src="@drawable/kerinci" />
+
+                    <TextView
+                        android:id="@+id/txt7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="6dp"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginStart="18dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_toRightOf="@+id/img7"
+                        android:text="Pendakian Gunung Kerinci"
+                        android:textAlignment="center"
+                        android:textColor="?android:attr/textColorTertiary"
+                        android:textSize="16sp"
+                        android:textStyle="normal|bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="false"
+                        android:layout_below="@id/txt7"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginStart="18dp"
+                        android:layout_marginTop="6dp"
+                        android:layout_toRightOf="@+id/img7"
+                        android:text="Sumatra Barat"
+                        android:textAlignment="center"
+                        android:textColor="#757575"
+                        android:textSize="14sp" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_below="@id/txt7"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_toRightOf="@+id/img7"
+                        android:background="#eeeeee" />
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="65dp"
+                    
+                    android:onClick="latimojongg"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/img8"
+                        android:layout_width="75dp"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_marginLeft="4dp"
+                        android:src="@drawable/latimojong" />
+
+                    <TextView
+                        android:id="@+id/txt8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="6dp"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginStart="18dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_toRightOf="@+id/img8"
+                        android:text="Pendakian Gunung Latimojong"
+                        android:textAlignment="center"
+                        android:textColor="?android:attr/textColorTertiary"
+                        android:textSize="16sp"
+                        android:textStyle="normal|bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="false"
+                        android:layout_below="@id/txt8"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginStart="18dp"
+                        android:layout_marginTop="6dp"
+                        android:layout_toRightOf="@+id/img8"
+                        android:text="Sulawesi Selatan"
+                        android:textAlignment="center"
+                        android:textColor="#757575"
+                        android:textSize="14sp" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_below="@id/txt8"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_toRightOf="@+id/img8"
+                        android:background="#eeeeee" />
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="65dp"
+                    
+                    android:onClick="rinjanii"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/img9"
+                        android:layout_width="75dp"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_marginLeft="4dp"
+                        android:src="@drawable/rrinjani" />
+
+                    <TextView
+                        android:id="@+id/txt9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="6dp"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginStart="18dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_toRightOf="@+id/img9"
+                        android:text="Pendakian Gunung Rinjani"
+                        android:textAlignment="center"
+                        android:textColor="?android:attr/textColorTertiary"
+                        android:textSize="16sp"
+                        android:textStyle="normal|bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="false"
+                        android:layout_below="@id/txt9"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginStart="18dp"
+                        android:layout_marginTop="6dp"
+                        android:layout_toRightOf="@+id/img9"
+                        android:text="Nusa Tenggara Barat"
+                        android:textAlignment="center"
+                        android:textColor="#757575"
+                        android:textSize="14sp" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_below="@id/txt9"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_toRightOf="@+id/img9"
+                        android:background="#eeeeee" />
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:layout_marginBottom="6dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="65dp"
+                    
+                    android:onClick="tamboraa"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/img10"
+                        android:layout_width="75dp"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_marginLeft="4dp"
+                        android:src="@drawable/tambora" />
+
+                    <TextView
+                        android:id="@+id/txt10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="6dp"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginStart="18dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_toRightOf="@+id/img10"
+                        android:text="Pendakian Gunung Tambora"
+                        android:textAlignment="center"
+                        android:textColor="?android:attr/textColorTertiary"
+                        android:textSize="16sp"
+                        android:textStyle="normal|bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="false"
+                        android:layout_below="@id/txt10"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginStart="18dp"
+                        android:layout_marginTop="6dp"
+                        android:layout_toRightOf="@+id/img10"
+                        android:text="Nusa Tenggara Barat"
+                        android:textAlignment="center"
+                        android:textColor="#757575"
+                        android:textSize="14sp" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_below="@id/txt10"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_toRightOf="@+id/img10"
+                        android:background="#eeeeee" />
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+</LinearLayout>

@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--JAtim-->
+    <!--JAtim-->
+    <!--JAtim-->
+    <!--JAtim-->
+    <string-array name="nama_gunung_jatim">
+        <item>Gunung Argopuro</item>
+        <item>Gunung Arjuno</item>
+        <item>Gunung Baluran</item>
+        <item>Gunung Bromo</item>
+        <item>Gunung Butak</item>
+        <item>Gunung Ijen</item>
+        <item>Gunung Kawi</item>
+        <item>Gunung Kelud</item>
+        <item>Gunung Panderman</item>
+        <item>Gunung Penanggungan</item>
+        <item>Gunung Raung</item>
+        <item>Gunung Semeru</item>
+        <item>Gunung Welirang</item>
+        <item>Gunung Wilis</item>
+    </string-array>
+    <array name="image_gunung_jatim">
+        <item>@drawable/aargopuro</item>
+        <item>@drawable/aarjuno</item>
+        <item>@drawable/bbaluran</item>
+        <item>@drawable/bbromo</item>
+        <item>@drawable/bbutak</item>
+        <item>@drawable/iijen</item>
+        <item>@drawable/kkawi</item>
+        <item>@drawable/kkelud</item>
+        <item>@drawable/ppanderman</item>
+        <item>@drawable/ppenanggungan</item>
+        <item>@drawable/rraung</item>
+        <item>@drawable/ssemeru</item>
+        <item>@drawable/wwelirang</item>
+        <item>@drawable/wwilis</item>
+    </array>
+    <string-array name="deskripsi_gunung_jatim">
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Argopuro atau disebut
+        juga “Argopura” adalah gunung api yang terletak di
+        Jawa Timur tepatnya di perbatasan kabupaten Probolinggo, Situbondo dan Bondowoso. Argopuro memiliki arti
+        “Argo=Gunung” dan “Puro=pura” sama dengan “Pura di atas gunung. Gunung ini sudah tidak aktif lagi.
+        Gunung Argopuro memiliki ketinggian 3.088 mdpl.\n\u0020\u0020\u0020\u0020\u0020Gunung
+        Argopuro masuk dalam kawaasan Pegunungan Iyang di Jawa Timur. Secara geografis gunung Argopuro
+        berdiri di antara kedua gunung yang memiliki peringkat khusus di Indonesia yakni Gunung Semeru
+        (puncak tertinggi di Jawa) dan Gunung Raung (trek tersulit). Jika Semeru dan Raung ber-peringkat
+        maka Argopuro juga demikian adanya, Gunung Argopuro berperingkat sebagai gunung dengan jalur
+        pendakian terpanjang di Jawa.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Arjuno atau “Arjuna” adalah gunung
+        api yang terletak di Malang, Jawa Timur. Gunung ini adalah
+        gunung yang memiliki kembaran bernama Gunung Welirang. Karena
+        puncak gunung Arjuno yang berdekatan dengan puncak gunung Welirang
+        maka orang banyak menyebut dua gunung kembar tersebut sebagai Gunung
+        Arjuno-Welirang.\n\u0020\u0020\u0020\u0020\u0020Gunung
+        Arjuno masuk dalam kawasan Taman Hutan Raya Raden Soeryo. Di gunung ini juga terdapat objek
+        wisata yang cukup menarik yakni air terjun Kakek Bodo. Selain itu gunung komplek Gunung
+        Arjuno-Welirang juga memiliki kekayaan alam yang sangat indah seperti sabana, lembah,
+        berbagai macam bunga, fauna, dan sumber air.\n\u0020\u0020\u0020\u0020\u0020Seperti
+        kebanyakan gunung di Jawa, gunung Arjuno juga kental akan mitos. Gunung Arjuno tak
+        jarang dijadikan tempat orang untuk bersemedi dan ritual mencari ketenangan lainnya.
+        Sepanjang jalur menuju puncak gunung Arjuno banyak ditemui situs peninggalan sejarah
+        berupa batu atau arca bekas kerajaan Majapahit.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Baluran adalah gunung kecil yang masuk
+        dalam kawasan Taman Nasional Baluran, Situbondo, Jawa Timur. Gunung ini bisa
+        dibilang gunung yang berdiri di ujung pulau Jawa paling timur. Gunung Baluran memiliki
+        ketinggi 1.247 mdpl.\n\u0020\u0020\u0020\u0020\u0020Gunung ini sudah tidak aktif lagi.
+        Dinding kawahnya membatasi kaldera yang luas yang dalamnya 600 meter. Ada dugaan
+        di bagian timur yang lebih tinggi dari gunung ini telah meletus dan melemparkan batu-batu
+        besar keluar. Bagian
+        tengah pegunungan terbagi-bagi membentuk kaldera yang dalam dengan cerukan kawah yang
+        memadat di dasarnya.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Bromo adalah gunung api yang masih aktif
+        yang terletak di Jawa Timur tepatnya di
+        Kabupaten Probolinggo, Pasuruan, Lumajang, dan Kabupaten Malang. Gunung Bromo memiliki ketinggian
+        2.392 mdpl.\n\u0020\u0020\u0020\u0020\u0020Sejarah terbentuknya gunung Bromo adalah bermula dari letusan
+        yang memecah belah Gunung Tengger
+        (4000 mdpl). Akibat letusan tersebut terbentuklah sebuah komplek gunung yang di dalamnya
+        meliputi Lautan Pasir, Gunung Widodaren, Gunung Watangan, Gunung Kursi, Gunung Batok dan Gunung
+        Bromo. Selain penjelasan secara ilmiah, terbentuknya atau sejarah gunung Bromo juga sangat kental
+        akan cerita rakyat.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Butak adalah gunung api yang terletak
+        di Malang dan Blitar, Jawa Timur.
+        Gunung ini memiliki
+        ketinggian 2.868 mdpl. Gunung Kawi memiliki kembaran seperti halnya Gunung
+        Arjuno dan Gunung Welirang.\n\u0020\u0020\u0020\u0020\u0020Gunung Butak mungkin memiliki ketinggian
+        yang cukup ideal untuk didaki, namun masih jarang pendaki
+        yang memiliki gunung ini sebagai target pendakian mereka. Hal tersebut dikarenakan masih minimnya
+        informasi yang tersedia. Padahal pemandangan yang disediakan gunung ini tak kalah indah. Dan pilihan
+        jalur pendakian juga tak sedikit. Dari puncak Butak kita bisa melihat puncak gunung Arjuno,
+        Welirang dan Mahameru.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Ijen adalah gunung api yang masih aktif
+        yang terletak di kabupaten Banyuwangi,
+        Jawa Timur. Gunung ini tercatat pernah meletus sebanyak empat kali yakni pada 1796, 1817, 1913,
+        dan 1936. Gunung Ijen memiliki ketinggian 2.443 mdpl.\n\u0020\u0020\u0020\u0020\u0020Gunung
+        Ijen paling terkenal dengan kawahnya. Kawah Ijen adalah danau kawah terbesar di dunia.
+        Kawah tersebut memiliki kedalaman 200 meter dan 5466 Hektar serta memiliki ketinggian
+        2.368 mdpl dan pengelolaan kawah Ijen tersebut masuk dalam Cagar Alam Taman Wisata Ijen,
+        Bondowoso.\n\u0020\u0020\u0020\u0020\u0020Kawah Ijen terkenal
+        dengan hasil alam berupa batu belerang dan api
+        abadi-nya. Jika kita ingin melihat api abadi gunung
+        Ijen kita harus siap-siap melakukan pendakian pada pagi hari sekali.
+        Hal tersebut dikarenakan api biru hanya terlihat pada dini hari saja</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Kawi adalah gunung berapi yang terletak
+        di Malang, tepatnya di Desa Wonosari,
+        Malang, Jawa Timur. Gunung ini memiliki ketinggian 2.551 mdpl. Gunung Kawi memiliki kembaran seperti
+        halnya Gunung Arjuno dan Gunung Welirang.\n\u0020\u0020\u0020\u0020\u0020Gunung Kawi dijadikan sebagai
+        obyek wisata. Di kaki gunung Kawi banyak dijumpai situs situs
+        penainggalan sejarah yang berbau tiongkok. Di sepanjang jalan kita akan menemui bangunan
+        bangunan dengan arsitektur khas Tiongkok, dimana terdapat sebuah kuil/klenteng tempat untuk
+        bersembahyang atau melakukan ritual khas Kong Hu Cu. Di sepanjang jalan juga banyak
+        terdapat penginapan baik itu hotel, losmen, atau bahkan rumah penduduk
+        dapat juga disewa untuk dijadikan tempat menginap.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Kelud adalah gunung api yang masih aktif yang
+        terletak di perbatasan antara
+        Kabupaten Kediri, Kabupaten Blitar, dan Kabupaten Malang. Gunung Kelud memiliki ketinggian
+        1.731 mdpl. Meskipun merupakan gunung kecil namun gunung ini bisa sewaktu-waktu meletus dan
+        letusannya bisa sampai Bali dan Jakarta.\n\u0020\u0020\u0020\u0020\u0020Gunung Kelud sudah 30 kali
+        meletus sejak tahun 1000 M. Dan letusan terakhir pada 2014. Letusan pada 2014 ini terjadi sangat
+        hebat. Bahkan dinyatakan bahwa letusan satu hari Gunung Kelud 2014 setara dengan
+        letusan Gunung Merapi 2010 sebulan.\n\u0020\u0020\u0020\u0020\u0020Puncak Kelud adalah yang
+        tertinggi, berposisi agak di timur laut kawah. Puncak-puncak lainnya
+        adalah Puncak Gajahmungkur di sisi barat dan Puncak Sumbing di sisi selatan.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Panderman adalah gunung yang terletak di
+        Kota Batu, Malang. Gunung Panderman
+        memiliki ketinggian 2.045 mdpl. Gunung ini terlihat anggun dilihat dari Alun-alun Batu.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Penanggungan adalah gunung api istirahat yang
+        terletak di Kabupaten
+        Mojokerto (Barat) dan Kabupaten Pasuruan (Timur). Gunung Penanggungan memiliki ketinggian 1.653 mdpl.
+        Gunung ini adalah gunung kecil yang terletak tidak jauh dari Gunung Arjuno dan Gunung
+        Welirang.\n\u0020\u0020\u0020\u0020\u0020Berdasarkan
+        studi selama dua tahun (2012-2014) ditemukan 116 situs percandian atau objek kepurbakalaan,
+        mulai dari kaki sampai mendekati puncak gunung Penanggungan.\n\u0020\u0020\u0020\u0020\u0020Disekeliling
+        gunung penanggungan terdapat
+        bukit-bukit disekitarnya yaitu, Bukit Bekel (1238 m), Gajah Mungkur (1084 m),
+        Sarah Klopo (1235 m), dan Kemuncup (1238 m).\n\u0020\u0020\u0020\u0020\u0020Penelitian
+        yang dilakukan Turangga Seta mengindikasikan bahwa gunung Penanggungan
+        adalah area kraton Mojopoit/Majapahit yang ditimbun.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Raung adalah gunung yang terletak di
+        kawasan pegunungan
+        Ijen Jawa Timur
+        tepatnya di tiga kabupaten yakni Kabupaten Banyuwangi, Jember dan
+        Bondowoso.\n\u0020\u0020\u0020\u0020\u0020Gunung
+        Raung memiliki ketinggian 3344 mdpl (meter di atas permukaan laut).
+        Gunung Raung adalah gunung api yang memiliki kaldera unik dan berbeda
+        dengan gunung-gunung api lain. Kalderanya yang berbentuk elips dengan
+        kedalaman sekitar 500 meter dalamnya yang selalu berasap dan sering
+        menyemburkan api dan terdapat kerucut setinggi kurang lebih 100 meter.
+        Letusan terbesar gunung Raung terjadi pada 1638.\n\u0020\u0020\u0020\u0020\u0020Hingga
+        saat inin gunung ini cenderung stabil. Gunung Raung terkenal
+        memiliki medan paling sulit se-Jawa. Hal ini karena untuk mencapai
+        puncak sejati gunung Raung memerlukan peralatan khusus untuk naik
+        seperti tali dan sebagainya.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Semeru adalah gunung api tertinggi di pulau
+        Jawa dan tertinggi nomor tiga di Indonesia setelah gunung Kerinci (1),
+        dan gunung Rinjani (2). Puncak tertinggi gunung Semeru yakni bernama
+        Mahameru memiliki ketinggian 3.676 mdpl dan memiliki sebuah kawah yang
+        masih mengepulkan asap bernama Kawah Jonggring Saloko.\n\u0020\u0020\u0020\u0020\u0020Gunung Semeru
+        terletak di Malang dan sebagian Lumajang. Gunung ini juga masuk
+        dalam kelompok pegunungan Tengger dan satu komplek dengan gunung Bromo.
+        Pegunungan Tengger merupakan pegunungan yang sangat besar yang di
+        dalamnya berdiri banyak gunung-gunung kecil dan yang paling besar
+        gunung adalah Gunung Semeru</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Welirang adalah gunung api yang terletak
+        di kabupaten Malang dan kabupaten Mojokerto. Gunung ini termasuk
+        dalam golongan gunung api yang masih aktif. Di puncak gunung
+        Welirang terdapat kawah yang masih aktif mengeluarkan asap
+        belerang.\n\u0020\u0020\u0020\u0020\u0020Gunung Welirang memiliki saudara kembar yakni Gunung Arjuno.
+        Orang biasa menyebut kedua gunung ini dengan Gunung
+        Arjuno-Welirang. Kedua pucuk gunung tersebut saling berhimpit
+        dipisahkan oleh Gunung Kembar I dan Gunung Kembar II.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Wilis adalah gunung yang sudah tidak
+        aktif yang terletak di Jawa Timur. Gunung Wilis masuk dalam
+        perbatasan enam kabupaten yakni Kediri, Tulungagung, Nganjuk,
+        Madiun, Ponorogo, dan Trenggalek. Gunung Wilis memiliki
+        ketinggian 2563 mdpl (meter di atas permukaan laut)
+        .\n\u0020\u0020\u0020\u0020\u0020Gunung Wilis terkenal dengan objek
+        wisatanya berupa air terjun yakni Air Terjun Ironggolo, Air Terjun
+        Dholo. Air terjun tersebut masuk dalam pengelolaan kabupaten Kediri.</item>
+    </string-array>
+    <string-array name="jalur_jatim">
+        <item>Jalur Bremi (Probolinggo)\nJalur Baderan</item>
+        <item>Jalur Lawang (Timur),\nTretes (Utara) ,\nBatu (Barat),\nKarangploso
+        (Selatan),\nSumberawan,\nPurwosari.</item>
+        <item>Karangtekok\nWonorejo.</item>
+        <item>Desa Tosari – Wonokitri\nCemoro lawang – Ngadisari\nJemplang – Ngadas</item>
+        <item>Jalur Sirah Kencong, Blitar\nJalur gunung Kawi Kepanjen,\nJalur Desa
+        Gadingkulon-Dau-Malang,\nJalur Bukit Panderman Batu-Malang</item>
+        <item>Banyuwangi\nBondowoso</item>
+        <item>Pesarean Gunung Kawi\nPerkebunan teh senggrong</item>
+        <item>Tulungrejo Blitar</item>
+        <item>Dukuh Toyomerto, Desa Pesanggrahan\nJalur Curah Banteng</item>
+        <item>Wonosunyo,\nSeloliman,\nTrawas,\nNgoro</item>
+        <item>Waringin (Bondowoso)\nKalibaru (Banyuwangi)</item>
+        <item>Ranu Pani\nAyek-Ayek</item>
+        <item>Jalur Lawang (Timur),\nTretes (Utara),\nBatu (Barat),\nKarangploso
+        (Selatan),\nSumberawan danPurwosari.</item>
+        <item>Kecamatan Mojo,\nKecamatan Semen,\nkabupaten Kediri (timur),\nKecamatan
+        Sendang,\nKabupaten Tulungagung (selatan),\nKabupaten Nganjuk (utara),\nKabupaten Ponorogo,\nKabupaten
+        Madiun (barat)</item>
+    </string-array>
+
+    <string-array name="informasi_gunung_jatim">
+        <item>Nama: Gunung Argopuro\nLokasi: Probolinggo\nKetinggian: 3.088 mdpl\nSpo
+        t alam: Sabana, savana, danau\nSumber air: Danau Taman Hidup\nPuncak: Puncak Rengganis, Puncak Arca, Puncak Argopoera</item>
+        <item>Nama: Gunung Arjuno\nKetinggian: 3.339 mdpl\nLokasi: Malang, Jawa
+        Timur.\nTipe: Gunung berapi strato\nLetusan terakhir: 1952\nPuncak: Puncak Arjuno, Puncak Ogal-agil</item>
+        <item>Nama: Gunung Baluran\nLokasi: Situbondo\nKetinggian: 1247 mdpl\nTipe: Gunung Non-Aktif</item>
+        <item>Nama: Gunung Bromo\nKetinggian: 2.392 mdpl\nLokasi: Probolinggo, Pasuruan,
+        Lumajang, Malang\nTipe: Gunung api aktif</item>
+        <item>Nama: Gunung Butak\nLokasi : Blitar\nKetinggian : 2.868 mdpl\nTipe : Gunung Non-Aktif</item>
+        <item>Nama: Gunung Ijen\nKetinggian: 2.443 mdpl\nLokasi: Banyuwangi\nLetusan
+        terakhir: 1999\nTipe:
+        Gunung Aktif\nPengelola: Cagar Alam Taman Wisata Ijen</item>
+        <item>Nama: Gunung Kawi\nKetinggian: 2.551 mdpl\nLokasi: Kabupaten
+        Malang\nTipe : Gunung Berapi</item>
+        <item>Nama: Gunung Kelud\nKetinggia: 1731 mdpl\nLokasi: Kabupaten Kediri dan Kabupaten
+        Blitar\nTipe: Gunung Aktif</item>
+        <item>Nama: Gunung Panderman\nKetinggian: 2.045 mdpl\nLokasi: Batu Malang\nTipe:
+        Gunung Non-Aktif\nPuncak: Puncak Pasundra</item>
+        <item>Nama: Gunung Penanggungan\nKetinggian: 1653 mdpl\nLokasi: Mojokerto,
+        Pasuruan\nTipe: Gunung Non-Aktif</item>
+        <item>Nama: Gunung Raung\nKetinggian: 3344 mdpl\nLokasi: Banyuwangi, Jember dan
+        Bondowoso\nTipe: Gunung Api\nPuncak: Puncak 17, Puncak Tusuk Gigi dan Puncak Sejati Raung</item>
+        <item>Nama: Gunung Semeru\nKetinggian: 3.676
+        mdpl\nPengelola: TNBTS (Taman Nasional Bromo Tengger Semeru)\nDanau (ranu):
+        Ranu Pani, Ranu Regulo, Ranu Kumbolo dan Ranu Darungan.\nKawah: Kawah Jonggring Saloka\nPuncak:
+        Mahameru\nWebsite resmi: www.bromotenggersemeru.org</item>
+        <item>Nama: Gunung Welirang\nKetinggian: 3.156 mdpl\nLokasi: Malang,
+            Mojokerto Jawa Timur.\nTipe: Gunung berapi strato\nKondisi: udara dingin, kabut,
+            bebatuan, situs sejarah, sabana, makam, sumber air</item>
+        <item>Nama: Gunung Wilis\nKetinggian: 2563 mdp
+        l\nLokasi: Kediri, Tulungagung, Nganjuk, Madiun, Ponorogo,
+        dan Trenggalek\nTipe: Gunung non-Aktif\nKondisi: Hutan, Air
+        terjun, Semak belukar, fauna, sumur, makam</item>
+    </string-array>
+
+    <!-- JATENG -->
+    <!-- JATENG -->
+    <!-- JATENG -->
+    <!-- JATENG -->
+    <string-array name="nama_gunung_jateng">
+        <item>Gunung Andong</item>
+        <item>Gunung Lawu</item>
+        <item>Gunung Merapi</item>
+        <item>Gunung Merbabu</item>
+        <item>Gunung Prau</item>
+        <item>Gunung Rogojembangan</item>
+        <item>Gunung Sindoro</item>
+        <item>Gunung Slamet</item>
+        <item>Gunung Sumbing</item>
+        <item>Gunung Ungaran</item>
+    </string-array>
+    <array name="image_gunung_jateng">
+        <item>@drawable/aandong</item>
+        <item>@drawable/llawu</item>
+        <item>@drawable/mmerapi</item>
+        <item>@drawable/mmerbabu</item>
+        <item>@drawable/pprau</item>
+        <item>@drawable/rrogojembangan</item>
+        <item>@drawable/ssindoro</item>
+        <item>@drawable/sslamet</item>
+        <item>@drawable/ssumbing</item>
+        <item>@drawable/uungaran</item>
+    </array>
+    <string-array name="deskripsi_gunung_jateng">
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Andong adalah gunung
+        kecil yang terletak di kabupaten Magelang,
+        Jawa Tengah. Gunung ini belum pernah mempunyai
+        aktivitas meletus. Gunung Andong lebih tepatnya
+        terletak di Girirejo, kecamatan Ngablak,
+        kabupaten Magelang dan berketinggian sekitar 1.726 mdpl.\n\u0020\u0020\u0020\u0020\u0020Gunung
+        Andong berpenampakkan seperti punggung sapi,
+        melengkung naik turun. Gunung ini sering dikunjungi
+        oleh para pendaki untuk hunting foto. Tidak jarang
+        juga didaki untuk camping.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Lawu adalah gunung yang terletak di
+        perbatasan provinsi Jawa Tengah dan Jawa Timur, tepatnya
+        di daerah Tawangmangu dan Cemorosewu. Gunung Lawu adalah
+        gunung api yang mati atau istirahat. Tercatat gunung ini
+        pernah meletus pada tahun 1885. Gunung Lawu banyak diminati
+        oleh para pendaki karena pemandangan yang eksotis dan juga
+        banyak memiliki spot-spot bagus seperti sumber air, kawah,
+        sabana, bukit, kabut, dan satu yang paling menarik yakni
+        adanya rumah warga alias pemukiman warga di puncaknya.
+        Dan pemukiman tersebut diklaim sebagai pemukiman
+        tertinggi di Jawa.\n\u0020\u0020\u0020\u0020\u0020Gunung Lawu
+        memiliki tiga puncak yakni puncak Hargo Dalem, Hargo Dumiling
+        dan Hargo Dumilah. Puncak Hargo Dumilah yang tertinggi yakni
+        pada ketinggian 3.265 mdpl.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Merapi adalah gunung api teraktif di
+        Indonesia. Gunung Merapi dikategorikan dalam gunung berapi
+        tipe strato atau masih aktif. Tercatat dalam catatan modern
+        bahwa gunung Merapi mengalami erupsi atau letusan setiap
+        2-5 tahun sekali. Tahun 2010 adalah pembuktian betapa
+        ganasnya erupsi gunung Merapi di sepuluh tahun terakhir
+        ini. Gunung Merapi tercatat sudah meletus sebanyak 68
+        kali sejak tahun 1548.\n\u0020\u0020\u0020\u0020\u0020Gunung Merapi
+        selain masuk dalam kategori gunung api paling aktif
+        juga masuk dalam kategori gunung api paling berbahaya.
+        Karena jika gunung ini meletus maka akibatnya akan sangat
+        fatal mengingat sekeliling gunung Merapi adalah pemukiman
+        padat. Dari sisi barat ada kabupaten Magelang, sebelah
+        selatan ada kabupaten Sleman dan kota Yogyakarta, dari sisi
+        timur ada kabupaten Boyolali, dan sisi tenggara kabupaten Klaten.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Merbabu adalah salah satu gunung
+        paling indah di provinsi Jawa Tengah tepatnya di kabupaten
+        Magelang (Barat), Boyolali (Timur), Salatiga (Selatan), dan
+        Semarang (Utara). Jalur pendakian gunung Merbabu cocok sekali
+        untuk para pendaki pemula. Dari mulai jalan datar, bergelombang,
+        agak naik, dan menanjak sampai menanjak sekali ada di jalur
+        pendakian gunung Merbabu. Ditambah lagi hutan homogen, sabana,
+        dan bukit-bukit rumput menghiasi di setiap perjalanan.\n\u0020\u0020\u0020\u0020\u0020Gunung
+        Merbabu adalah gunung yang pernah aktif. Tercatat pernah
+        meletus pada tahun 1560 dan tahun 1797. Oleh karena itu
+        gunung Merbabu disebut juga gunung tidur karena sudah tidak
+        meletus lagi. Ketinggian gunung Merbabu yakni 3.142 mdpl atau
+        sekitar 10.630 kaki. Untuk ketinggian tersebut gunung Merbabu
+        sudah tergolong gunung dengan ketinggian di atas rata-rata.
+        Namun bagi para pendaki pemula jangan kawatir karna ketinggian
+        tersebut akan dibalas dengan pemandangan di sana.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Prau adalah gunung kecil yang menjadi
+        tujuan paling favorit para pendaki di Indonesia khususnya
+        pulau Jawa sejak 2014. Puncak gunung Prau ini diklaim
+        memiliki tempat terbaik se-asia tenggara untuk melihat
+        matahari terbit. Gunung Prau terletak di dataran tinggi
+        Dieng, Wonosobo, Jawa Tengah. Sejak 2014 gunung Prau
+        didatangi banyak sekali para pendaki yang ingin melihat
+        langsung penampakkan sunrise dari gunung Prau tersebut.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Rogojembangan
+        terletak di perbatasan kabupaten Banjarnegara dengan kabupaten Pekalongan, Jawa Tengah.
+        Gunung Rogojembangan memiliki ketinggian sekitar 2117 mdpl (meter di atas permukaan laut).
+        Gunung ini adalah gunung kecil. Beberapa desa yang berdiri di sekitar kaki gunung
+        Rogojembangan antara lain: Gumelem, Semego, Balun.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Sindoro disebut juga dengan Gunung
+        Sindara atau Sundoro atau Sendoro. Gunung Sindoro termasuk
+        dalam kategori gunung stratovolcano alias gunung tidur dan
+        sewaktu-waktu bisa erupsi. Erupsi terakhir adalah pada 1906
+        dan semenjak itu hanya terjadi peningkatan aktivitas saja.
+        Gunung Sindoro termasuk dalam gunung yang sensitif terhadap
+        kondisi alam. Tidak jarang gunung ini ditutup untuk pendakian
+        akibat cuaca tidak bersahabat. Selain rentan terhadap cuaca,
+        gunung Sindoro juga termasuk gunung yang dikeramatkan
+        layaknya gunung Lawu. Masyarakat kaki gunung tidak jarang
+        pula menutup pendakian menuju puncak karena faktor tertentu
+        berkaitan dengan tradisi khususnya jika tanggal 1 Syuro.\n\u0020\u0020\u0020\u0020\u0020Gunung Sindoro
+        terletak di terletak di kabupaten Wonosobo (Barat) dan kabupaten Temanggung (Timur). Seperti
+        layaknya gunung Merapi-Merbabu, gunung Sindoro juga memiliki saudara yakni Gunung Sumbing.
+        Ada hal unik pada dua gunung kembar ini yakni sebuah pemandangan yang melegenda.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Slamet adalah gunung tertinggi di
+        Jawa Tengah dan gunung tertinggi kedua di pulau Jawa setelah
+        gunung Semeru. Gunung Slamet memiliki ketinggian 3.428 mdpl.
+        Gunung Slamet adalah gunung api yang masih aktif. Gunung ini
+        juga dikatakan sebagai gunung yang membelah pulau Jawa karena
+        berdiri di 5 kabupaten yakni Kabupaten Brebes, Banyumas,
+        Purbalingga, Kabupaten Tegal, dan Kabupaten Pemalang,
+        Provinsi Jawa Tengah. Aktivitas terakhir gunung Slamet
+        adalah pada bulan Maret 2014 dan hingga awal 2015 gunung
+        ini masih berstatus waspada.\n\u0020\u0020\u0020\u0020\u0020Jalur pendakian
+        gunung Slamet terkenal berat. Ekologi pada gunung Slamet sebagian besar adalah hutan. Di
+        kaki gunung adalah perkebunan yang subur sehingga banyak masyarakat kaki gunung Slamet hidup
+        berkecukupan dengan limpahan kekayaan alam. Selain kekayaan alam yang melimpah gunung Slamet
+        juga dikenal gunung yang memiliki background penuh mitos.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Sumbing adalah gunung api yang
+        sudah lama sekali tidak meletus atau erupsi. Gunung ini
+        terakhir kali erupsi adalah pada tahun 1730. Gunung Sumbing
+        terletak di Jawa Tengah yakni masuk dalam kabupaten Magelang,
+        Temanggung, dan Wonosobo. Gunung Sumbing sudah tidak aktif
+        lagi namun di puncaknya masih terdapat kawah.\n\u0020\u0020\u0020\u0020\u0020Gunung
+        Sumbing memiliki ketinggian 3.371 mdpl. Kondisi alam di sekitar kaki gunung Sumbing sangat subur
+        sehingga banyak dimanfaatkan masyarakat setempat sebagai perkebunan.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Ungaran adalah gunung api
+        dengan ketinggian 2.050 mdpl yang terletak di kabupaten
+        Semarang. Gunung ini memiliki tiga puncak: Gendol,
+        Botak, dan Ungaran. Puncak tertinggi adalah Ungaran.\n\u0020\u0020\u0020\u0020\u0020Di lereng
+        gunung Ungaran terdapat situs arkeologi berupa Candi Gedongsongo (Bahasa Jawa: gedong = gedung,
+        songo = sembilan). Terdapat pula beberapa air terjun (curug), di antaranya Curug Semirang dan Curug Lawe.
+        Juga terdapat gua, yang terkenal dengan nama Gua Jepang. Gua ini terletak 200 meter sebelum puncak, tepatnya
+        di sekitar perkampungan Promasan (perkampungan para pemetik teh). Di sini terdapat pula reruntuhan
+        bekas pemandian kuna.</item>
+    </string-array>
+    <string-array name="jalur_jateng">
+        <item>Girirejo</item>
+        <item>Cemoro Kandang\nCemoro Sewu</item>
+        <item>Jalur Selo\nKinaharjo</item>
+        <item>Selo (dari Boyolali)\nKopeng
+        (dari Salatiga)\nWekas
+        (dari Magelang)</item>
+        <item>Patak Banteng</item>
+        <item>Gumelem\nSemego.</item>
+        <item>Kledung (Temanggung)\nSikatok/Sigedang-Tambi (Wonosobo) tercepat\nSibajak
+        (Temanggung)\nJlumprit (Dusun Katekan)</item>
+        <item>Baturaden (Purwokerto) jalur resmi\nBambangan
+        (Purbalingga) jalur resmi\nKaliwadas
+        (Brebes) jalur resmi\nDukuhliwung
+        (Tegal)\nGuci
+        (Tegal)\nKaligua
+        (Bumiayu)</item>
+        <item>Jalur Garung\nJalur Cepit Parakan\nJalur Bowongso\nJalur Mangli</item>
+        <item>Jalur Gedong Songo\nJalur Jimbaran\nMedini/Promosan</item>
+    </string-array>
+    <string-array name="informasi_gunung_jateng">
+        <item>Nama: Gunung Andong\nKetinggian: 1.726 mdpl\nLokasi: Magelang\nTipe:
+        Gunung kecil bukan api</item>
+        <item>Nama: Gunung Lawu\nKetinggian:
+        3.265 mdpl\nLokasi:
+        Magetan, Tawangmangu, Cemorosewu\nTipe:
+        Gunung berapi stratovolcano\nLetusan terakhir: 1885</item>
+        <item>Nama: Gunung Merapi\nKetinggian:
+        2930 mdpl\nLokasi:
+        Klaten, Boyolali, Magelang, Sleman,Yogyakarta.\nPengelola:
+        Taman Nasional Gunung Merapi\nTipe: Gunung berapi strato\nLetusan
+        terakhir: 2010\nSumber air: di jalur pendakian Selo\nSungai:
+        Serang, Cemoro, Pepe dan Gandul\nPuncak: puncak Merapi\nWebsite:
+        www.tngunungmerapi.org</item>
+        <item>Nama: Gunung Merbabu\nKetinggian:
+        3.142 mdpl\nLokasi:
+        Magelang, Semarang, Boyolali, Salatiga, Jawa Tengah\nLetusan terakhir:
+        1560 dan 1797\nSumber air:
+        Ada di jalur Wekas (Pos 2)\nPuncak:
+        puncak Syarif, Puncak Kenteng Songo/Tianggulasi</item>
+        <item>Nama: Gunung Prau\nKetinggian:
+        2.565 mdpl\nLokasi:
+        Wonosobo, Temanggung, Jawa Tengah\nTipe:
+        Gunung kecil bukan api</item>
+        <item>Nama: Gunung Rogojembangan\nKetinggian: 2.117 mdpl\nLokasi:
+        Pekalongan, Banjarnegara\nTipe: Gunung Non-Aktif</item>
+        <item>Nama: Gunung Sindoro\nKetinggian: 3.136 mdpl\nLokasi: Wonosobo,
+        Temanggung Jawa Tengah\nTipe: Gunung berapi stratovolcano\nLetusan terakhir: 1906</item>
+        <item>Nama: Gunung Slamet\nKetinggian: 3.428 mdpl\nLokasi:
+        Kabupaten Brebes, Banyumas, Purbalingga,
+        Tegal, dan Pemalang (Jawa Tengah)\nTipe:
+        Gunung berapi stratovolcano\nLetusan terakhir:
+        2014\nSumber air:
+        Sumur Penganten (jalur Kaliwadas)\nPuncak:
+        Puncak Surono\nKawah:
+        Segoro Wedi</item>
+        <item>Nama: Gunung Sumbing\nKetinggian: 3.371 mdpl\nLokasi:
+        Wonosobo, Temanggung, Magelang\nTipe:
+        Gunung berapi stratovolcano\nLetusan terakhir:
+        1730\nPuncak:
+        Puncak Buntu dan Puncak Sejati</item>
+        <item>Nama: Gunung Ungaran\nKetinggian:
+        2050 mdpl\nLokasi:
+        Kabupaten Semarang (Jawa Tengah)\nTipe: Gunung berapi stratovolcanoss</item>
+    </string-array>
+
+    <!-- JABAR -->
+    <!-- JABAR -->
+    <!-- JABAR -->
+    <!-- JABAR -->
+    <string-array name="nama_gunung_jabar">
+        <item>Gunung Cikuray</item>
+        <item>Gunung Ciremai</item>
+        <item>Gunung Gede</item>
+        <item>Gunung Guntur</item>
+        <item>Gunung Malabar</item>
+        <item>Gunung Pangrango</item>
+        <item>Gunung Papandayan</item>
+        <item>Gunung Patuha</item>
+        <item>Gunung Rakutak</item>
+        <item>Gunung Salak</item>
+    </string-array>
+    <array name="image_gunung_jabar">
+        <item>@drawable/ccikuray</item>
+        <item>@drawable/cciremai</item>
+        <item>@drawable/ggede</item>
+        <item>@drawable/gguntur</item>
+        <item>@drawable/mmalabar</item>
+        <item>@drawable/ppangrango</item>
+        <item>@drawable/ppapandayan</item>
+        <item>@drawable/ppatuha</item>
+        <item>@drawable/rrakutak</item>
+        <item>@drawable/ssalak</item>
+    </array>
+    <string-array name="deskripsi_gunung_jabar">
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Cikuray adalah gunung tertinggi
+        keempat di jawa barat setelah gunung Gede, Pangrango dan
+        Ciremai. Secara geografis gunung Cikuray terletak di
+        sebelah selatan provinsi jawa barat tepatnya di kabupaten
+        Garut, dan berada di perbatasan kecamatan Bayongbong,
+        Cikajang, dan Dayeuh Manggung. Gunung ini memiliki
+        ketinggian 2.821 mdpl (meter di atas permukaan
+        laut).\n\u0020\u0020\u0020\u0020\u0020Kabupaten
+        Garut terkenal sebagai daerah yang dingin dan
+        banyak wisata gunungnya termasuk gunung Cikuray.
+        Bagi para pendaki yang memiliki waktu liburan
+        panjang atau pendaki dari luar provinsi biasanya
+        melakukan pendakian gunung Cikuray sekaligus gunung
+        guntur atau papandayan karena memang letaknya berdekatan.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Ciremai atau
+        Ceremai adalah salah satu gunung yang memiliki
+        ketinggian di atas 3000 mdpl yang terletak di 3
+        kabupaten yakni Kabupaten Cirebon, Kabupaten Kuningan
+        dan Kabupaten Majalengka, Provinsi Jawa Barat. Gunung api
+        ini memiliki ketinggian 3.078 mdpl. Gunung Ciremai
+        merupakan gunung tertinggi di Jawa
+        Barat.\n\u0020\u0020\u0020\u0020\u0020Asal
+        nama Ciremai atau Ceremai adalah dari kata
+        tumbuhan bernama Cereme yaitu sejenis tumbuhan
+        perdu gunung. Kemudian karena masyarakat Jawa Barat
+        biasanya menamakan suatu tempat dengan awalan “ci”
+        maka dinamakanlah “Ciremai”.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Gede
+        merupakan sebuah gunung yang berada di Pulau Jawa,
+        Indonesia. Gunung Gede berada dalam ruang lingkup Taman
+        Nasional Gede Pangrango, yang merupakan salah satu dari
+        lima taman nasional yang pertama kali diumumkan di Indonesia
+        pada tahun 1980. Gunung ini berada di wilayah tiga kabupaten
+        yaitu Kabupaten Bogor, Cianjur dan Sukabumi, dengan ketinggian
+        1.000 - 3.000 mdpl.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Selain Gunung
+        Papandayan dan Cikuray, Gunung lain di Garut yang juga
+        menjadi kesukaan pendaki di Jawa Barat dan sekitarnya
+        adalah Gunung Guntur. Gunung ini memiliki ketinggian
+        2.249 mdpl dan punya pemandangan yang tak kalah indah
+        dengan gunung-gunung lainnya.\n\u0020\u0020\u0020\u0020\u0020Walau
+        tingginya tidak sampai 3.000 mdpl, namun pendakian ke gunung ini
+        terkenal cukup sulit karna medan yang terjal serta tidak adanya
+        jalur khusus menuju ke puncak. Apalagi jika cuaca sedang berkabut,
+        track pendakian akan semakin menyulitkan para pendaki. Namun,
+        apa yang akan kita dapatkan begitu sampai di puncak sangatlah
+        spektakuler.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Malabar
+        adalah nama rangkaian
+        pegunungan yang ada di wilayah selatan Bandung. Rangkaian
+        pegunungan ini memiliki beberapa gunung. Antara lain Gunung
+        Putang serta Gunung Haruman. Malabar sendiri adalah nama salah
+        satu puncak di rangkaian Pegunungan
+        Malabar.\n\u0020\u0020\u0020\u0020\u0020Gunung yang
+        paling terkenal di Pegunungan Malabar adalah Gunung Haruman
+        dengan puncak yang dikenal dengan nama Puncak Besar. Titik
+        paling tinggi di gunung ini adalah 2.343 mdpl. Lokasinya yang
+        masuk masuk wilayah Bandung membuat Pegunungan Malabar menjadi
+        salah satu gunung yang disukai para pendaki.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Pangrango
+        merupakan sebuah gunung yang terdapat di pulau Jawa,
+        Indonesia. Gunung Pangrango mempunyai ketinggian
+        setinggi 3.019 meter dari permukaan laut. Puncaknya
+        dinamakan Puncak Mandalawangi. Puncak Mandalawangi juga
+        merupakan titik pertemuan batas tiga kabupaten yaitu
+        Kabupaten Bogor, Kabupaten Cianjur dan
+        Kabupaten Sukabumi.\n\u0020\u0020\u0020\u0020\u0020Gunung Pangrango
+        merupakan gunung tertinggi kedua di Jawa Barat setelah Gunung
+        Ceremai. Gunung Pangrango terletak persis bersebelahan
+        dengan Gunung Gede dan berada dalam kawasan Taman Nasional
+        Gede Pangrango.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung
+        Papandayan berada di Kecamatan Cisurupan, Kabupaten Garut,
+        Jawa Barat. Di gunung ini terdapat beberapa kawah terkenal
+        antara lain Kawah Baru, Kawah Mas, Kawah Nangklak, dan Kawah
+        Manuk. Gunung Papandayan memiliki keanekaragaman flora dan
+        fauna seperti edelweiss, puspa, pohon suagi, trenggiling,
+        kijang, lutung, dan lain-lain. Gunung ini terdapat kawah
+        yang lumayan memberikan efek panas bagi tubuh, namun kawah
+        panas itu tidak mengurangi jumlah banyaknya pengunjung yang
+        ingin berkunjung ke gunung papandayan ini.\n\u0020\u0020\u0020\u0020\u0020Daerah
+        yang paling banyak menarik wisatawan salah satunya
+        adalah Kawah Papandayan. Di kawah tersebut terdapat
+        lubang-lubang yang bisa menghasilkan suara-suara unik.
+        Gunung yang sudah beberapa kali meletus ini memiliki
+        ketinggian 2.665 meter atau 8.740 kaki.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Nama Gunung
+        Patuha mungkin masih sedikit asing. Namun, jika kita
+        sebutkan Kawah Putih semua pasti langsung tahu. Yap,
+        Kawah Putih adalah bagian dari Gunung Patuha yang berada
+        di Bandung. Pesona Kawah Putih telah dikenal luas di
+        Indonesia.\n\u0020\u0020\u0020\u0020\u0020Namun,
+        jangan lupa bahwa kawah tersebut merupakan bagian dari
+        Gunung Patuha. Asal muasal kawah cantik ini adalah dari
+        letusan Gunung Patuha tempo dulu. Tentu akan sangat menarik
+        jika melakukan pendakian Gunung Patuha lalu menyaksikan
+        indahnya Kawah Putih dari ketinggian.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Nama gunung Rakutak belum
+        terlalu terkenal, hingga beberapa waktu lalu banyak yang
+        mengunggah foto-foto keren dari gunung yang nggak terlalu
+        tinggi ini, dan sukses membuat Rakutak menjadi salah satu
+        destinasi favorit pendaki sekitar Jawa Barat. Gunung
+        setinggi 1.957 mdpl ini punya panorama keindahan alam
+        yang super keren, terutama di jembatan sirotol mustaqimnya
+        yang terkenal. Dari gunung ini, kamu dapat melihat pemandangan
+        gunung-gunung indah di sekitar kota Bandung.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Salak
+        adalah gunung impian bagi mereka yang benar-benar memiliki
+        jiwa pendaki sejati. Gunung ini begitu menantang karna sangat
+        terkenal dengan suasana mistisnya. Butuh nyali untuk melakukan
+        pendakian ke gunung yang satu ini.\n\u0020\u0020\u0020\u0020\u0020Gunung Salak
+        terletak diantara Kabupaten Sukabumi dan Bogor.
+        Gunung ini merupakan bagian dari Taman Nasional Gunung
+        Halimun-Salak. Nama gunung ini sendiri berasal dari bahasa
+        Sansekerta yang berarti perak. Walau tidak terlalu tinggi
+        (2.221 mdpl), pendakian Gunung Salak terkenal cukup sulit
+        karna medannya yang tidak ramah untuk pendaki. Salah satu
+        jalur pendakian ke Gunung Salak adalah melalui jalur
+        Cidahu, Sukabumi. Jalur pendakian ke Gunung Salak akan
+        melewati beberapa makam yang konon cukup keramat jika
+        ingin melakukan pendakian ke Gunung Salak pastikan
+        persiapannya benar-benar maksimal.</item>
+    </string-array>
+    <string-array name="jalur_jabar">
+        <item>Jalur Cikajang\nJalur Bayongbong\nJalur Dayeuhmanggung.</item>
+        <item>Palutungan\nLinggarjati\nApuy\nPadabeunghar</item>
+        <item>Jalur Cibodas\nJalur Gunung Putri,\nJalur Selabintana.</item>
+        <item>Jalur Curug Citiis</item>
+        <item>Mekarsari\nPuntang</item>
+        <item>Jalur Cibodas\nJalur Gunung Putri\nJalur Selabintana</item>
+        <item>Cisurupan\nPangalengan</item>
+        <item>Rancabali</item>
+        <item>Sukarame</item>
+        <item>Cidahu\nCuruk Nangka\nCimelati</item>
+    </string-array>
+    <string-array name="informasi_gunung_jabar">
+        <item>Nama: Gunung Cikuray\nKetinggian: 2.821 mdpl\nLokasi: Kabupaten Garut,
+        Provinsi Jawa Barat\nTipe: Gunung Berapi</item>
+        <item>Nama: Gunung Ciremai\nKetinggian:
+        3.078 mdpl\nLokasi:
+        Cirebon, Kuningan dan Majalengka\nLetusan
+        terakhir: 1938\nPengelola:
+        Taman Nasional Gunung Ciremai\nWebsite:
+        http://tngciremai.com\nSpot alam:
+        Hutan, Sabana, Bukit, Kawah\nPuncak:
+        Puncak Sunan Mataram</item>
+        <item>Nama: Gunung Gede\nKetinggian: 2.958 mdpl\nLokasi: Bogor, Cianjur, Sukabumi,
+        Jawa Barat\nSumber air: telga biru, air panas, alun-alun
+        surya kencana\nTipe: Stratovolcano (aktif)</item>
+        <item>Nama: Gunung Guntur\nKetinggian:
+        2.249 mdpl\nLokasi:
+        Jawa Barat\nTipe:
+        Gunung kecil bukan api\nKondisi:
+        perkebunan, hutan, kabut\nSpot alam:
+        perkebunan\nFlora:
+        pohon akasia, pinus\nFauna:
+        berbagai macam burung\nSumber air:
+        ada</item>
+        <item>Nama: Gunung Malabar\nKetinggian:
+        2.343 mdpl\nLokasi:
+        Jawa Barat\nTipe:
+        Gunung kecil bukan api\nKondisi:
+        perkebunan, hutan, kabut\nSpot alam:
+        perkebunan\nFlora:
+        pohon akasia, pinus\nFauna:
+        berbagai macam burung\nSumber air:
+        ada</item>
+        <item>Nama: Gunung Gede\nKetinggian: 3.019 mdpl\nLokasi:
+        Bogor, Cianjur, Sukabumi, Jawa Barat\nSumber air:
+        telga biru, air panas, alun-alun surya kencana\nTipe:
+        Stratovolcano (aktif)</item>
+        <item>Nama: Gunung Papandayan\nKetinggian: 2.665 mdpl\nLokasi:
+        Jawa Barat\nTipe:
+        Gunung Stratovolcano</item>
+        <item>Nama: Gunung Patuha\nLokasi: Jawa Barat\nKetinggian: 2.386 mdpl\nTipe:
+        Gunung-Aktif</item>
+        <item>Nama: Gunung Rakutak\nKetinggian:
+        1.957 mdpl\nLokasi:
+        Jawa Barat\nTipe:
+        Gunung kecil bukan api\nKondisi:
+        perkebunan, hutan, kabut\nSumber air: ada</item>
+        <item>Nama: Gunung Salak\nKetinggian:
+        2.221 mdpl\nLokasi:
+        Jawa Barat\nTipe:
+        Gunung Aktif\nKondisi:
+        perkebunan, hutan, kabut\nSpot alam:
+        perkebunan\nFlora:
+        pohon akasia, pinus\nFauna:
+        berbagai macam burung\nSumber air: ada</item>
+    </string-array>
+
+    <!-- LUAR JAWA -->
+    <!-- LUAR JAWA -->
+    <!-- LUAR JAWA -->
+    <!-- LUAR JAWA -->
+    <string-array name="nama_gunung_luar">
+        <item>Gunung Agung</item>
+        <item>Gunung Jaya Wijaya</item>
+        <item>Gunung Kerinci</item>
+        <item>Gunung Latimojong</item>
+        <item>Gunung Rinjani</item>
+        <item>Gunung Tambora</item>
+    </string-array>
+    <array name="image_gunung_luar">
+        <item>@drawable/aagung</item>
+        <item>@drawable/jjayawijaya</item>
+        <item>@drawable/kkerinci</item>
+        <item>@drawable/llatimojong</item>
+        <item>@drawable/rrinjani</item>
+        <item>@drawable/ttambora</item>
+    </array>
+    <string-array name="deskripsi_gunung_luar">
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung
+        Agung adalah gunung tertinggi di pulau Bali dengan
+        ketinggian 3.031 mdpl. Gunung ini terletak di
+        kecamatan Rendang, Kabupaten Karangasem, Bali,
+        Indonesia. Pura Besakih, yang merupakan salah
+        satu Pura terpenting di Bali, terletak di lereng
+        gunung ini.\n\u0020\u0020\u0020\u0020\u0020Gunung
+        Agung adalah gunung berapi tipe stratovolcano,
+        gunung ini memiliki kawah yang sangat besar dan
+        sangat dalam yang kadang-kadang mengeluarkan asap
+        dan uap air. Dari Pura Besakih gunung ini nampak dengan
+        kerucut runcing sempurna, tetapi sebenarnya puncak
+        gunung ini memanjang dan berakhir pada kawah yang
+        melingkar dan lebar.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Puncak
+        Jaya ialah sebuah puncak yang menjadi bagian dari
+        Barisan Sudirman yang terdapat di Provinsi Papua,
+        Indonesia. Puncak Jaya mempunyai ketinggian 4.884 m
+        dan di sekitarnya terdapat gletser Carstensz,
+        satu-satunya gletser tropika di Indonesia, yang
+        kemungkinan besar segera akan lenyap akibat
+        pemanasan global.\n\u0020\u0020\u0020\u0020\u0020Puncak ini
+        merupakan gunung yang tertinggi di Indonesia kawasan Oceania.
+        Puncak Jaya adalah salah satu dari tujuh puncak dunia.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Kerinci (juga dieja "Kerintji",
+        dan dikenal sebagai Gunung Gadang, Berapi Kurinci, Kerinchi,
+        Korinci, atau Puncak Indrapura) adalah gunung tertinggi di
+        Sumatra, gunung berapi tertinggi di Indonesia, dan puncak
+        tertinggi di Indonesia di luar Papua. Gunung Kerinci
+        terletak di Provinsi Jambi yang berbatasan dengan provinsi
+        Sumatera Barat, di Pegunungan Bukit Barisan, dekat pantai
+        barat, dan terletak sekitar 130 km sebelah selatan Padang.
+        Gunung ini dikelilingi hutan lebat Taman Nasional Kerinci
+        Seblat dan merupakan habitat harimau sumatra dan badak sumatra.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung
+        Latimojong adalah satu nama gunung di Kabupaten Enrekang,
+        Sulawesi Selatan, Indonesia. Gunung Latimojong berada di
+        tengah-tengah Sulawesi Selatan. Sebagian besar pengunungan
+        ini terletak di daerah Kabupaten
+        Enrekang.\n\u0020\u0020\u0020\u0020\u0020Gunung Latimojong
+        merupakan gunung yang tertinggi di Sulawesi Selatan dengan
+        ketinggian 3.478 meter, puncaknya yang bernama Rante Mario.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Rinjani
+        adalah gunung yang berlokasi di Pulau Lombok, Nusa Tenggara Barat.
+        Gunung yang merupakan gunung berapi kedua tertinggi di Indonesia
+        dengan ketinggian 3.726 m dpl ini merupakan gunung favorit bagi pendaki
+        Indonesia karena keindahan pemandangannya. Gunung ini merupakan
+        bagian dari Taman Nasional Gunung Rinjani yang memiliki luas
+        sekitar 41.330 ha dan ini akan diusulkan penambahannya sehingga
+        menjadi 76.000 ha ke arah barat dan timur.</item>
+        <item>\u0020\u0020\u0020\u0020\u0020Gunung Tambora
+        (atau Tomboro) adalah sebuah stratovolcano aktif yang
+        terletak di pulau Sumbawa, Indonesia. Gunung ini terletak
+        di dua kabupaten, yaitu Kabupaten Dompu (sebagian kaki sisi
+        selatan sampai barat laut, dan Kabupaten Bima (bagian
+        lereng sisi selatan hingga barat laut, dan kaki hingga
+        puncak sisi timur hingga utara), Provinsi Nusa Tenggara
+        Barat.\n\u0020\u0020\u0020\u0020\u0020Gunung ini terletak
+        baik di sisi utara dan selatan kerak oseanik. Tambora
+        terbentuk oleh zona subduksi di bawahnya. Hal ini meningkatkan
+        ketinggian Tambora sampai 4.300 m[2] yang membuat gunung
+        ini pernah menjadi salah satu puncak tertinggi di Nusantara
+        dan mengeringkan dapur magma besar di dalam gunung ini.
+        Perlu waktu seabad untuk mengisi kembali dapur magma tersebut.</item>
+    </string-array>
+    <string-array name="jalur_luar">
+        <item>kecamatan Selat\nBudakeling\nPura Besakih</item>
+        <item>Sugapa\nIlaga</item>
+        <item>Kersik Tuo</item>
+        <item>Rante Lemo\nKarangan</item>
+        <item>Senaru\nSembalun Lawang</item>
+        <item>Desa Tambora\nDesa Doropeti\nDesa Sorotatanga</item>
+    </string-array>
+    <string-array name="informasi_gunung_luar">
+        <item>Nama: Gunung Agung\nKetinggian:
+        3.031 mdpl\nLokasi:
+        Bali\nTipe: Gunung Stratovolcano</item>
+        <item>Nama: Gunung Jaya Wijaya\nKetinggian:
+        4.884 mdpl\nLokasi: Papua\nTipe: Gunung</item>
+        <item>Nama: Gunung Kerinci\nKetinggian:
+        3.805 mdpl\nLokasi:
+        Sumatra\nTipe: Gunung Berapi</item>
+        <item>Nama: Gunung Latimojong\nKetinggian: 3.478 mdpl\nLokasi:
+        Sulawesi\nTipe: Gunung Non-Aktif</item>
+        <item>Nama: Gunung Rinjani\nKetinggian: 3.726 mdpl\nLokasi:
+        Lombok, NTB.\nTipe: Gunung Berapi</item>
+        <item>Nama: Gunung Tambora\nKetinggian:
+        2.850 mdpl\nLokasi: Bima, NTB.\nTipe: Gunung Stratovolcano</item>
+    </string-array>
+    <string-array name="nama_peralatan">
+        <item>Tenda</item>
+        <item>Makanan/Logistik</item>
+        <item>Peralatan Masak</item>
+        <item>P3K/Obat-Obatan</item>
+        <item>Trash Bag</item>
+        <item>Tas Carrier</item>
+        <item>Jaket Gunung</item>
+        <item>Sepatu Gunung</item>
+        <item>Sleeping Bag</item>
+        <item>Pakaian Outdoor</item>
+        <item>Matras</item>
+        <item>Headlamp</item>
+        <item>Sarung Tangan</item>
+        <item>Trekking Pole</item>
+        <item>Jas Hujan/Ponco</item>
+        <item>Masker/Buff</item>
+        <item>Kupluk</item>
+        <item>Gaiter</item>
+    </string-array>
+    <array name="image_peralatan">
+        <item>@drawable/tenda</item>
+        <item>@drawable/logistik</item>
+        <item>@drawable/kompor</item>
+        <item>@drawable/p3k</item>
+        <item>@drawable/trash</item>
+        <item>@drawable/tas</item>
+        <item>@drawable/jaket</item>
+        <item>@drawable/sepatu</item>
+        <item>@drawable/sleeping</item>
+        <item>@drawable/pakaian</item>
+        <item>@drawable/matras</item>
+        <item>@drawable/senter</item>
+        <item>@drawable/tangan</item>
+        <item>@drawable/pole</item>
+        <item>@drawable/ponco</item>
+        <item>@drawable/buff</item>
+        <item>@drawable/kupluk</item>
+        <item>@drawable/gaiter</item>
+    </array>
+    <string-array name="deskripsi_peralatan">
+        <item>Peralatan Kelompok</item>
+        <item>Peralatan Kelompok</item>
+        <item>Peralatan Kelompok</item>
+        <item>Peralatan Kelompok</item>
+        <item>Peralatan Kelompok</item>
+        <item>Peralatan Pribadi</item>
+        <item>Peralatan Pribadi</item>
+        <item>Peralatan Pribadi</item>
+        <item>Peralatan Pribadi</item>
+        <item>Peralatan Pribadi</item>
+        <item>Peralatan Pribadi</item>
+        <item>Peralatan Pribadi</item>
+        <item>Peralatan Pribadi</item>
+        <item>Peralatan Pribadi</item>
+        <item>Peralatan Pribadi</item>
+        <item>Peralatan Pribadi</item>
+        <item>Peralatan Pribadi</item>
+        <item>Peralatan Pribadi</item>
+    </string-array>
+    <string-array name="informasi_peralatan">
+        <item>Tenda diperlukan untuk tempat berteduh dari konisi alam yang tidak memunginkan perjalanan dilanjutkan atau tempat kita tidur saat bermalam. Tenda ini seperti versi rumah mini.\n\nAda banyak jenis tenda dengan berbagai model, ukuran, kapasitas dan tingkat kualitas. Jika Anda mendaki misalnya hanya berdua, ya mengapa membawa tenda dengan kapasitas empat atau enam orang. Cukuplah bawa tenda dengan ukuran 2-3 orang saja.\n\nSetidaknya ada hal-hal yang harus dipertimbangkan ketika membeli sebuah tenda, yaitu berat tenda, ketahanan dan kualitas bahan dalam melawan dingin, hujan dan angin.  Standar tenda saat ini juga sudah memiliki penutup tenda ataupun teras tenda.\n\nPenutup ini fungsinya agar embun atau air hujan tidak langsung menimpa tenda. Untuk bahan dapat disesuaikan budget saja. Tenda bagus tentu memiliki bahan yang baik dan tidak mudah merembes embun ataupun air hujan.\n\nTenda yang mudah merembes embun atau hujan tentu akan membuat kita tidak nyaman. Jadi pilihlah tenda berkualitas baik jika Anda ingin memilikinya. Jika ingin menyewa sesuaikan dengan tujuan dan kondisi cuaca saat akan mendaki.</item>
+        <item>Makanan yang dibawa seharusnya dapat memenuhi kebutuhan energi pendaki, selama pendakian seseorang membutuhkan sitar 5.000 kalori dan 100 gram protein, kalori dapat dipenuhi dengan mengkonsumsi nasi. \n\nNamun ada baiknya hanya memakan nasi satu kali sehari di kala malam (saat berkemah) alasannya beras realtif berat dan memerluakan waktu yang lama untu memasak serta menghabiskan banyak bahan bakar. Fungsi beras dapat diganti dengan roti, biskuit,coklat, dan hevermut. Hal yang perlu diperhatikan adalah hindari mengkonsumsi makanan yang harus dimasak lebih dahulu selama mendaki, karean hal ini hanya akan merepotkan dan menghabiskan waktu perjalanan. \n\nPilihlah makanan praktis seperti coklat, roti, agar-agar,buah-buahan, dapat juga dibuat mixfood yang terdiri atas kacang, colat, biskuit dan kismis. Umumnya makanan yang paling praktis dibawa adalah makanan awetan yang memiliki kemasan, buka kemasan karton sebelum dimasukan dalam ransel dengan demikian berat ransel dapat berkurang dan makanan yang dibawa tidak banyak memakan tempat didalam ransel.</item>
+        <item>Kompor dan peralatan memasak yang diperlukan untuk memasak dan makan selama pendakian. Ingat, selama di gunung tidak warung makan.  Bawalah kompor dan peralatan masak yang benar-benar diperlukan. Pertimbangkan juga ukurannya. Bawa saja panci kecil dan perlengkapan makan tentara. Dalam satu kelompok berjumlah 10-12 orang bawa 2 peralatan makan tentara atau nesting sudah cukup. Biasanya terdiri dari 3 bagian, yang masing-masing dapat digunakan sebagai tempat makan, memasak air, dan memasak makanan semisal nasi.\n\nLalu bawalah kompor, jumlah 10-12 orang bawalah minimal 2 kompor gas kecil. Dalam pendakian gunung berangin bisa juga membawa kompor antibadai agar angin dari kompor tidak mudah padam.\n\nLalu untuk bahan bakar bawalah setidaknya 3 gas kecil. Selain gas bisa juga cadangan membawa parafin. Untuk bahan makananan, sesuaikanlah sesuai menu yang direncakan saat pendakian.</item>
+        <item>Mempersiapkan peralatan perawatan terutama jika Anda memiliki penyakit tertentus eperti Alergi, dll. Obat lain yang dapat diambil termasuk obat luka, minyak kayu putih, balsem, madu, gula, tolak angin dll.\n\nPeralatan ini sangat penting untuk mengatasi keadaan yang tidak diduga seperti terkena duri, sengatan binatang, digigit ular dan lain – lain.
+Beberapa bahan atau peralatan P3K yang harus dibawa antara lain:\n 1. Betadine.\n
+2. Kapas.\n
+3. Kain kassa.\n
+4. Perban.\n
+5. Rivanol.\n
+6. Alkohol 70%.\n
+7. Obat alergi.\n
+8. Obat maag.\n
+9. Tensoplast.\n
+10. Parasetamol.\n
+11. Antalgin.\n
+12. Obat sakit perut (diare).\n
+13. Obat keracunan.\n
+14. Sunburn preventif.\n
+15. Oralit.</item>
+        <item>Ingat, sampah yang dihasilkan selama perjalanan jangan dibuang di alam, tetapi bawa kembali sampai menuju pos dan dibuang pada tempat semestinya. Trash bag ini berguna untuk meletakkan sampah-sampah selama pendakian. Sebagai contoh bungkus-bungkus makanan Anda.\n\nSelain sampah tas ini juga berguna sebagai lapisan pada bagian dalam ransel tas gunung untuk menjaga barang, terutama pakaian tetap kering. Dalam keadaan tertentu bila hanya ransel/tas gunung saja tanpa dilindungi trash bag di bagian dalam maka barang Anda bisa lembab karena paparan hujan dan dingin. Kantong sampah atau trash bag ini beli lah yang besar, bukan sekadar pelastik keresek biasa. Biasanya berukuran 30cm lebih.</item>
+        <item>Tas ini fungsinya sudah sangat jelas, yaitu untuk membawa dan menampung barang bawaan serta perlengkapan lainnya dalam mendaki gunung. Bedanya dibanding tas biasa, tas gunung ini memiliki kapasitas yang lebih besar. Biasanya  tas yang digunakan berkapasitas 45 liter, 65 liter, 75 liter, 85 liter, bahkan ada yang sampai 115 liter.\n\nKapasitas besar ini disesuaikan oleh masing-masing orang. Tidak semua orang harus menggunakan tas berkapasitas besar. Tas gunung kapasitas besar biasanya dibawa atau dimiliki oleh mereka yang terbiasa menjadi leader ataupun porter dalam kelompok pendakian.\n\nDalam satu kelompok, dengan jumlah anggota 11-15, cukup 1-3 saja yang membawa tas berkapasitas besar. Hal dimaksudkan agar dalam perjalanan tidak semua anggota mendapat beban fisik yang sama saat perjalanan. Harapannya, saat ada kelelahan dari anggota lain bisa berbagi beban atau bertukar beban tas.\n\nTas gunung juga harus terbuat dari bahan yang kuat. Bawaan yang banyak tentu mengharuskan wadahnya memiliki kekuatan dalam menampung. Jangan sampai ditengah jalan tas rusak hanya kerena tidak kuat menahan beban.\n\nDesain pun dibuat sedemian rupa agar dapat menampung perlengkapan mendaki gunung sesuai letak dan posisi yang tepat. Seperti, adanya kantong di bagian atas untuk menaruh pelastik, jas hutan, tali rafia atau yang lainnya. Ada tali pengikat di samping kanan kiri, atas, bawah yang fungsinya bisa disesuaikan masing-masing. Paling penting tas gunung juga harus memiliki penutup tas yang anti basah agar ketika hujan, tas terhindar basah dan barang di dalam aman dari hujan.</item>
+        <item>Jaket adalah salah satu peralatan pendakian yang sangat penting, sifatnya wajib. Jaket ini berguna untuk menahan dan mengurangi dingin sehingga panas tubuh tetap terjaga. Hal ini berguna untuk menghindari hal-hal buruk yang tidak diinginkan karena dingin.  Cukup banyak kasus pendaki yang mengalami hipertemia atau kedinginan karena jaket yang tidak memadai untuk Manahan dingin. Jadi bawa lah jaket yang nyaman agar pendakian Anda juga aman.\n\nPilihlah jaket yang berbahan isian (down Jaket) jaket jenis ini cukup tebal dan menahan dingin yang baik, kelemahannya relatif berat dan memakan banyak tempat dalam ransel. Jaket lainnya yang sebaiknya dibawa adalah yang memiliki dua lapisan (double layer) lapisan dalam biasanya berbahan penghangat dan menyeyerap keringat seperti wool atau polartex, sedang lapisan luar berfungsi menahan air dan dingin. \n\nKini teknologi tekstil sudah mampu memproduksi Gore-Tex bahan jaket yang nyaman dipakai saat mendaki, bahan ini memungkinkan kulit tetap bernafas, tidak gerah mengeluarkan keringat dan mampu menahan angin (wind breaking) dan resapan air hujan (water proof).</item>
+        <item>Mendaki gunung ini akan melewati berbagai medan yang dinamis dengan tanah bergelombang, batu-batuan, akar, tanah berpasir, ataupun genangan air. Oleh karena itu sangat dianjurkan tentu menggunakan sepatu khusus gunung.\n\nSepatu gunung memiliki pijakan yang sudah disesuakan agar mencengkeram kuat dalam berbagai medan. Pijakan kuat ini menghindari terjadinya kecelakaan karena sepatu yang tidak cocok di perjalanan. Jadi, sepatu ini sangat enting karena banyak pendaki mengalami cidera disebabkan kaki yang terpelintir entah karena salah berpijak atau sepatu yang tidak cocok.\n\nSelama pendakian saya sarankan gunakan sepatu gunung. Dan saya pribadi memang lebih suka menggunakan sepatu gunung daripada sandal karena merasa lebih nyaman bergerak secara bebas. Sandal hanyalah cadangan jika sepatu rusak atauapun jika ingin sekadar berjalan-jalan saat sudah mendirikan tenda. Kaki juga perlu ruang bernafas setalah lama sesak di dalam sepatu.\n\nPilihlah juga sepatu gunung antiair agar jika hujan atau melewati genangan air kaki Anda tidak basah yang akan menyebabkan ketidaknyamanan kaki dalam bergerak.</item>
+        <item>Kantong tidur atau sleeping bag berguna untuk menutupi tubuh Anda pada saat tidur di tenda sehingga tubuh kita tetap hangat. Tidak dapat dipungkiri, bahkan jika Anda tidur di tenda, biasanya masih tidak cukup untuk menjaga masuknya udara pegunungan yang dingin selama malam hari.\n\nDua faktor perlu dipertimbangkan ketika memilih kantong tidur adalah kualitas bahan dan ukuran. Kantong tidur besar, tidak selalu baik dalam menahan dingin. Karena saat ini juga sudah ada produk yang sangat tipis tapi memiliki kehangatan yang baik. Bahan utaa polar wajib jadi pertimbangan untuk kehangatan saat tidur.</item>
+        <item>Pakaian yang ideal saat mendaki di gunung daerah tropis adalah yang relatif tebal dan menyerap keringat. Celana tidak kaku dan ringan guna melindungi kaki dari goresan duri. Baju dari katun atau wol cukup ideal. Sayang bila telah basah, katun tidak mampu menghangatkan badan, baju dari bahan sintetis misalnya polyester dan acrylics sedikit menyerap keringat tetapi cepat kering, sementara bahan nilon sebaiknya tidak digunakan karena tidak menyerap keringat sehingga keringat akan tetap menenpel pada badan, sebaliknya nylon amat baik menahan hujan sehingga banyak digunakan sebagai ponco. hindari pemakaian pakaian berbahan jeans. \n\nBahan ini sukar kering dan berat disaat basah. Bila mendaki medan yang dirimbuni pepohonan atau semak tinggi dimana terpaan angin tidak kencang, hindari pemakaian jaket saat berjalan, selain menahan keringat yang menempel di badan jaket juga membuat tubuh terasa gerah karena selama berjalan suhu tubuh meningkat akibat pembakaran zat makanan untuk menghasilkan energi. \n\nPada saat istirahat disela pendakian, pembakaran berkurang, dinginya temperatur di gunung dan hembusan angin mengakibatkan pendaki akan menghadapi perbedaan drastis temperatur, oleh karena itu saat beristirahat sebaiknya pendaki mengunakan jaket atau sweater tebal. Bila beristirahat saat hujan sebaiknya menganti baju yang basah dengan baju yang kering.</item>
+        <item>Matras ini berfungsi sebagai kasur saat tidur di dalam tenda. Atau sebagai alas duduk saat ingin bersantai ria saat bersitirahat, berteduh dan sebagainya tanpa harus duduk beralaskan tanah. Secara umum matras berbahan karet. Pilihlah sesuai selera saja karena ada matras dengan karet tebal atau tipis.</item>
+        <item>Senter atau Headlamp penting untuk kondisi gelap. Headlamp ini adalah senter yang menempel di kepala. Dengan headlamp(lampu/senter dipasang di kepala) atau senter akan membantu Anda melakukan berbagai kegiatan di malam hari. Selain itu headlamp/lampu senter juga penting ketika saya bepergian ke puncak pada dini hari.\n\nPendaki tentu akan lebih mudah menggunakan headlamp daripada senter biasa yang dipegang di tangan karena dengan headlamp tangan jadi lebih leluasa bergerak dan beristirahat.\n\nJangan lupa pula membawa baterai cadangan untuk mengantisipasi habisnya daya baterai senter. Selain membawa baterai cadangan, beberapa pendaki bahkan biasanya membawa headlamp cadangan serta senter kecil untuk mengantisipasi kalau ada kerusakan pada headlamp yang digunakan.</item>
+        <item>Sarung tangan sangat berguna untuk melindungi tangan dari goresan, gesekan, atau mungkin gigitan kecil dari hewan di tangan Anda ketika melewati trek di gunung, terutama di hutan lebat atau berduri. Selain itu, sarung tangan ini juga berguna untuk menjaga suhu tubuh. Karena salah satu bagian tubuh kita, yaitu jari-jari sangat sensitive terhadap udara suhu dingin.\n\nPendaki biasanya membawa dua pasang sarung tangan, satu tebal yang biasanya digunakan ketika melewati medan berat seperti ketika memasuki jalan berbatu atau hutan atau semak-semak. Sementara lain kain lembut sarung tangan yang saya biasanya pakai saat tidur untuk mendapatkan kehangatan.</item>
+        <item>Alat ini berguna sekali pada saat kita menjejaki kaki di jalan setapak yang terus menanjak ,beban kaki bisa di bagi melalui tumpuan tangan menggunakan trekking pole ,jadi beban otot kaki bisa di minimalisir sehingga mengurangi resiko  terkilir ,yang bisa menhambat perjalanan pendakian kita,terlebih lagi pasti akan membuat repot teman di perjalanan. \n\nTreking pole ini sangat berguna sekali pada saat kita turun gunung, tentunya pada saat turun gunung otot bagian paha sangat terasa sekali di tambah perbekalan yang kita bawa. Tidak hanya itu kegunaan nya peralatan yang kita bawa di usahakan mempunyai banyak fungsi, contohnya trekking pole bisa juga di jadikan tiang fly sheet pada saat mendirikan camp.</item>
+        <item>Seperti namanya jas hujan berfungsi untuk melindungi tubuh Anda dari hujan ketika mendaki sehingga badan dan peralatan Anda tetap kering. Selain jas hujan mungkin juga digunakan sebagai dasar untuk Bivak dalam kondisi darurat.\n\nNah, untuk membuat bivak ini biasanya menggunakan jas hujan jenis ponco yang lebar, bukan jas hujan yang terdiri dari kemeja dan celana antihujan. Saya sendiri saat mendakian membagi beberapa anggota untuk membawa jas hujan jenis ponco dan jas hujan jenis kemeja celana. Hal tersebut untuk berjaga-jaga saja kalau ada kondisi yang mengharuskan mendirikan bivak sederhana.</item>
+        <item>Beberapa gunung memiliki lintasan berpasir dan sangat berdebu. Hal ini tentu dapat mengganggu pernafasan. Masker ini berguna sebagai topeng untuk menghindari debu saat mendaki gunung. Selain itu juga berguna untuk mengurangi eksposur terhadap dingin pada bibir dan mulut. Selain itu, masker ini juga bisa digunakan sekadar menjaga wajah dari paparan sinar matahari.</item>
+        <item>Kupluk berguna sebagai penutup kepala untuk mengurangi dingin. Meskipun kecil, kupluk sangat penting untuk menjaga panas tubuh. Kepala dan telinga Apakah jugasensitif terhadap dingin. Silakan Anda bisa membawanya demi kenyamana. Tidak juga tidak apa selama ini memiliki daya tahan yang baik terhada dingin.</item>
+        <item>Jika gunung tujuan Anda memiliki medan berpasir, alat ini perlu dimiliki. Gaiter dipasang di bagian atas sepatu sebagai penutup sampai sebatas lutut. Biasanya terbuat dari kain atau polyester.</item>
+    </string-array>
+</resources>

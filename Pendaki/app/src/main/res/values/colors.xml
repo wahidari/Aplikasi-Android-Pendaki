@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00897B</color>
+    <color name="colorPrimarys">#00BCD4</color>
+    <color name="colorPrimaryDarks">#00ACC1</color>
+    <color name="colorPrimaryss">#e91e63</color>
+    <color name="colorPrimaryDarkss">#d81b60</color>
+    <color name="colorPrimarysss">#607D8B</color>
+    <color name="colorPrimaryDarksss">#546E7A</color>
+    <color name="colorPrimaryssss">#3F51B5</color>
+    <color name="colorPrimaryDarkssss">#303F9F</color>
+    <color name="colorPrimaryStore">#f44336</color>
+    <color name="colorPrimaryDarkStore">#e53935</color>
+    <color name="textTitle">#90A4AE</color>
+    <color name="textTitlee">#d81b60</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#FFF</color>
+    <color name="colorAccentt">#009688</color>
+    <color name="colorAccenttt">#00BCD4</color>
+    <color name="album_title">#4c4c4c</color>
+</resources>

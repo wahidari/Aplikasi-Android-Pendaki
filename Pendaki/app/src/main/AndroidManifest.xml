@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wahidari.pendaki">
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:name="android.support.multidex.MultiDexApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/mountain"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/MyMaterialTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity2"
+            android:label="Info Pendakian"
+            android:theme="@style/MyMaterialThemes">
+            <intent-filter>
+                <action android:name="com.wahidari.pendaki.MainActivity2" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity3"
+            android:label="Peralatan"
+            android:theme="@style/MyMaterialThemess">
+            <intent-filter>
+                <action android:name="com.wahidari.pendaki.MainActivity3" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".menu.peralatan"
+            android:label="Peralatan"
+            android:theme="@style/MyMaterialThemess">
+            <intent-filter>
+                <action android:name="com.wahidari.pendaki.menu.peralatan" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".menu.about"
+            android:configChanges="orientation"
+            android:label="Tentang"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyMaterialThemesss">
+            <intent-filter>
+                <action android:name="com.wahidari.pendaki.menu.about" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- JATIM -->
+        <!-- JATIM -->
+        <!-- JATIM -->
+        <activity
+            android:name=".detail.DetailGunungJatim"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+
+        <!-- JATENG GOES HERE: -->
+        <activity
+            android:name=".detail.DetailGunungJateng"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+
+        <!-- JABAR GOES HERE: -->
+        <activity
+            android:name=".detail.DetailGunungJabar"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+
+        <!-- LUARJAWAR GOES HERE: -->
+        <activity
+            android:name=".detail.DetailGunungLuarJawa"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+
+        <!-- PERALATAN GOES HERE -->
+        <!-- PERALATAN GOES HERE -->
+        <!-- PERALATAN GOES HERE -->
+        <activity
+            android:name=".detail.DetailPeralatan"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/MyMaterialTheme.Basess">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity3" />
+        </activity>
+
+        <activity
+            android:name=".detail.DetailTipsPeralatan"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/MyMaterialTheme.Basess">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity3" />
+        </activity>
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".maps.MapsGunungActivity"
+            android:label="@string/title_activity_maps_gunung"
+            android:theme="@style/AppThemes">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.wahidari.pendaki.MainActivity" />
+        </activity>
+        <activity
+            android:name=".maps.MapsStoreActivity"
+            android:label="@string/title_activity_maps_store"
+            android:theme="@style/AppThemess">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.wahidari.pendaki.MainActivity" />
+        </activity>
+
+        <!-- INFO PENDAKIAN GOES HERE -->
+        <!-- INFO PENDAKIAN GOES HERE -->
+        <!-- INFO PENDAKIAN GOES HERE -->
+        <!-- INFO PENDAKIAN GOES HERE -->
+        <!-- INFO PENDAKIAN GOES HERE -->
+        <!-- INFO PENDAKIAN GOES HERE -->
+
+
+        <!-- INFO JATIM GOES HERE -->
+        <!-- INFO JATIM GOES HERE -->
+        <!-- INFO JATIM GOES HERE -->
+        <activity
+            android:name=".Pendakian.jatim.p_argopuro"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.p_arjuno"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.p_baluran"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.p_bromo"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.p_butak"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.p_ijen"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.p_kawi"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.p_kelud"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.p_panderman"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.p_penanggungan"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.p_raung"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.p_semeru"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.p_welirang"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.p_wilis"
+            android:theme="@style/MyMaterialThemes" />
+
+        <!-- INFO JATENG GOES HERE -->
+        <!-- INFO JATENG GOES HERE -->
+        <!-- INFO JATENG GOES HERE -->
+        <activity
+            android:name=".Pendakian.jatim.jateng.p_andong"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jateng.p_lawu"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jateng.p_merapi"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jateng.p_merbabu"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jateng.p_prau"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jateng.p_rogojembangan"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jateng.p_sindoro"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jateng.p_slamet"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jateng.p_sumbing"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jateng.p_ungaran"
+            android:theme="@style/MyMaterialThemes" />
+        <!-- INFO JABAR GOES HERE -->
+        <!-- INFO JABAR GOES HERE -->
+        <!-- INFO JABAR GOES HERE -->
+        <activity
+            android:name=".Pendakian.jatim.jabar.p_cikuray"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jabar.p_ciremai"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jabar.p_gede"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jabar.p_guntur"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jabar.p_malabar"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jabar.p_pangrango"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jabar.p_papandayan"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jabar.p_patuha"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jabar.p_rakutak"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.jabar.p_salak"
+            android:theme="@style/MyMaterialThemes" />
+        <!-- INFO LUAR GOES HERE -->
+        <!-- INFO LUAR GOES HERE -->
+        <!-- INFO LUAR GOES HERE -->
+        <activity
+            android:name=".Pendakian.jatim.luar.p_tambora"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.luar.p_agung"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.luar.p_jayawijaya"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.luar.p_kerinci"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.luar.p_latimojong"
+            android:theme="@style/MyMaterialThemes" />
+        <activity
+            android:name=".Pendakian.jatim.luar.p_rinjani"
+            android:theme="@style/MyMaterialThemes" />
+
+    </application>
+
+</manifest>
