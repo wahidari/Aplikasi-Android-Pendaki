@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Aplikasi Android Pendaki
 
-You can use the [editor on GitHub](https://github.com/wahidari/Aplikasi-Android-Pendaki/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![](https://gitlab.com/gitlab-org/gitlab-ce/badges/master/build.svg)](https://wahidari.github.io)
+[![](https://semaphoreci.com/api/v1/projects/2f1a5809-418b-4cc2-a1f4-819607579fe7/400484/shields_badge.svg)](https://wahidari.github.io)
+[![](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat&maxAge=86400)](https://wahidari.github.io)
+[![](https://img.shields.io/badge/Find%20Me-%40wahidari-009688.svg?style=social)](https://wahidari.github.io)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Language
 
-### Markdown
+- [![](https://img.shields.io/badge/java-8-red.svg)](https://developer.android.com/docs) 
+- [![](https://img.shields.io/badge/xml-1.0-green.svg)](https://developer.android.com/guide/topics/ui/declaring-layout) 
+- [![](https://img.shields.io/badge/kotlin-1.2-9C27B0.svg)](https://kotlinlang.org/)
+- [![](https://img.shields.io/badge/sqlite-3-blue.svg)](https://www.sqlite.org) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Screenshot
 
-```markdown
-Syntax highlighted code block
+![](./ss/a.jpg)
+![](./ss/b.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+![](./ss/c.jpg)
+![](./ss/d.jpg)
 
-- Bulleted
-- List
+![](./ss/e.jpg)
+![](./ss/f.jpg)
 
-1. Numbered
-2. List
+![](./ss/g.jpg)
+![](./ss/h.jpg)
 
-**Bold** and _Italic_ and `Code` text
+![](./ss/i.jpg)
+![](./ss/j.jpg)
 
-[Link](url) and ![Image](src)
-```
+![](./ss/k.jpg)
+![](./ss/l.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![](./ss/m.jpg)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wahidari/Aplikasi-Android-Pendaki/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## License
+> This program is Free Software: 
+You can use, study, share and improve it at your will. 
+Specifically you can redistribute and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl.html) 
+as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
